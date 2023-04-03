@@ -5,3 +5,5 @@
 Enlace a la [página de Matemática](maths/matemática.md).
 
 Enlace a la [página de Inglés](english/inglés.md).
+
+Enlace a la [página de Inglés](research/investigación.md).
