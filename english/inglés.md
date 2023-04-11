@@ -1,7 +1,5 @@
 # Página de Inglés
 
-## Lecture 1
-
 Lecture 1 material:
 * News in Level: <a href="https://donboscochacas.github.io/english/lecture1/1.powdered_beer.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Powdered beer</a>.
 * News in Level: <a href="https://donboscochacas.github.io/english/lecture1/2.tiktok_ban.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">TikTok ban</a>.
