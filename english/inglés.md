@@ -12,6 +12,7 @@ Lecture 2 material:
 Lecture 3 material:
 * Reading: lee el texto en <a href="https://www.learnenglish-online.com/grammar/readings/simplepresentreading.html" class="image fit"><img src="images/marr_pic.jpg" alt="">este enlace</a>.
 * Word document: resalta los verbos en amarillo, pero los en la tercera persona singular en verde <a href="https://donboscochacas.github.io/english/lecture3/simple_present1.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">second file</a>.
+* Completa los ejercicios que has recibido.
 
 ## Links
 
