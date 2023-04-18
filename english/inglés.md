@@ -13,10 +13,10 @@
 
 ## Lecture 3
 
-* Simple present: <a href="https://github.com/donboscochacas/donboscochacas.github.io/raw/main/english/lecture3/simple_present" class="image fit"><img src="images/marr_pic.jpg" alt="">first file</a>.
+* Simple present: <a href="https://donboscochacas.github.io/english/lecture3/simple_present.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">first file</a>.
 
 * Reading: lee el texto en <a href="https://www.learnenglish-online.com/grammar/readings/simplepresentreading.html" class="image fit"><img src="images/marr_pic.jpg" alt="">este enlace</a>.
-* Word document: resalta los verbos en amarillo, pero los en la tercera persona singular en verde <a href="https://github.com/donboscochacas/donboscochacas.github.io/raw/main/english/lecture3/simple_present1.docx" class="image fit"><img src="images/marr_pic.jpg" alt="">second file</a>.
+* Word document: resalta los verbos en amarillo, pero los en la tercera persona singular en verde <a href="https://donboscochacas.github.io/english/lecture3/simple_present1.docx" class="image fit"><img src="images/marr_pic.jpg" alt="">second file</a>.
 * Completa los ejercicios que has recibido.
 
 ## Links
