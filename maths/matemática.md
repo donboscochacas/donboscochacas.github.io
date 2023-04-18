@@ -36,6 +36,18 @@ SOLUCIONES
 * Enlace a las <a href="https://donboscochacas.github.io/maths/3.hoja3-soluciones.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">soluciones de los ejercicios sobre las ecuaciones</a>.
 -->
 
+## Cuarta clase
+
+Teoría
+
+* Enlace a las <a href="https://donboscochacas.github.io/maths/4.sistemas.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">notas sobre los sistemas de ecuaciones</a>.
+
+<!---
+## Quinta clase
+
+Ejercicios varios.
+-->
+
 <!---
 ESTADISTICA
 
